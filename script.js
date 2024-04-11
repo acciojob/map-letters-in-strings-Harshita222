@@ -15,8 +15,7 @@ function mapLetters(str){
     return obj
 }
 
-	// return
-}
+
 
 
 const str = prompt("Enter str: ");
